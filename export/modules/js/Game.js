@@ -1,7 +1,7 @@
 /**
  *------
  * BGA framework: Gregory Isabelli & Emmanuel Colin & BoardGameArena
- * oliva implementation : © <Your name here> <Your email address here>
+ * Oliva implementation : © Marcel van Nieuwenhoven marcel.eindhoven@hotmail.com
  *
  * This code has been produced on the BGA studio platform for use on http://boardgamearena.com.
  * See http://en.boardgamearena.com/#!doc/Studio for more information.
@@ -9,7 +9,7 @@
  *
  * Game.js
  *
- * oliva user interface script
+ * Oliva user interface script
  * 
  * In this file, you are describing the logic of your user interface, in Javascript language.
  *
@@ -17,7 +17,7 @@
 
 export class Game {
     constructor(bga) {
-        console.log('oliva constructor');
+        console.log('Oliva constructor');
         this.bga = bga;
             
         // Here, you can init the global variables of your user interface
@@ -202,7 +202,7 @@ export class Game {
         In this method, you associate each of your game notifications with your local method to handle it.
         
         Note: game notification names correspond to "notifyAllPlayers" and "notifyPlayer" calls in
-                your oliva.game.php file.
+                your Oliva.game.php file.
     
     */
     setupNotifications() {

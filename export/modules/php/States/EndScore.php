@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Bga\Games\oliva\States;
+namespace Bga\Games\Oliva\States;
 
 use Bga\GameFramework\StateType;
-use Bga\Games\oliva\Game;
+use Bga\Games\Oliva\Game;
 
 const ST_END_GAME = 99;
 

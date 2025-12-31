@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Bga\Games\oliva\States;
+namespace Bga\Games\Oliva\States;
 
 use Bga\GameFramework\StateType;
 use Bga\GameFramework\States\GameState;
 use Bga\GameFramework\States\PossibleAction;
 use Bga\GameFramework\UserException;
-use Bga\Games\oliva\Game;
+use Bga\Games\Oliva\Game;
 
 class PlayerTurn extends GameState
 {

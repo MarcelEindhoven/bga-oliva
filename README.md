@@ -1,5 +1,5 @@
 # bga-oliva
-Boardgamearena implementation of oliva
+Boardgamearena implementation of Oliva
 
 ## GitHub
 git clone https://github.com/MarcelEindhoven/bga-oliva.git
